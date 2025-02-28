@@ -1,0 +1,7 @@
+[
+    { "Nom de famille": "Ben", "Prénom": "Moris", "Email": "ben@gmail.com", "age": 26 },
+    { "Nom": "Kefi", "Prénom": "Seif", "Courriel": "kefi@gmail.com", "âge": 15 },
+    { "Nom": "Emilie", "Prénom": "brouge", "Courriel": "emilie.b@gmail.com", "âge": 40 },
+    { "Nom": "Alex", "Prénom": "brown", "âge": 4 },
+    { "Nom": "Denzel", "Prénom": "Washington", "âge": 3 }
+]
